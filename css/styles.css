@@ -1,0 +1,52 @@
+body {
+    padding-top: 60px;
+    padding-bottom: 0px;
+
+}
+.sidebar-nav {
+    padding: 9px 0;
+}
+
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.foot{
+    background-color: hsl(121, 50%, 10%);
+    color:white;
+    border: 1px solid hsl( 2, 10%, 30%);
+    padding:10px;
+
+}
+
+#right{
+    float: right;
+}
+
+.panel{
+    padding: 10px;
+    margin: 5px;
+    align:center;
+    background-color: white;
+    border-radius: 25px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5)
+
+}
+.sidepanel{
+    padding: 5px;
+    margin: 5px;
+    align:center;
+    background-color: white;
+    border-radius: 3px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+
+.foot li {
+
+    display: inline;
+    padding-right:30px;
+}
